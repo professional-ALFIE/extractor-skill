@@ -1,10 +1,10 @@
 [English](../README.md) | [한국어](./README.ko.md) | **[日本語](./README.ja.md)** | [中文](./README.zh.md)
 
-# GitHub Extractor Skill for Claude Code
+# GitHub Extractor Skill for Claude Code / Codex CLI / Gemini CLI
 
-> **LLMトークン消費ゼロ。ハルシネーションゼロ。100%決定論的。**
+> AIエージェントにオープンソース分析を頼む？ 500MBのリポ全体を`/tmp`にクローン。もう一度頼む？ またクローン…トークンも時間も無駄。ウェブ検索で分析させる？ 実際のコードを読むより精度は低く、ハルシネーションは多く、トークン消費もさらに多い。
 >
-> GitHubリポジトリからrawリンク抽出・ファイルダウンロード。フルクローン不要。
+> **もうその必要はありません。** 必要なフォルダだけダウンロードするか、rawリンクだけ抽出して直接使えます。
 >
 > **🚀 rawリンクを[NotebookLM](https://notebooklm.google.com)に入れれば、どんなGitHubリポからでも自分だけの[Deep Wiki](https://deepwiki.com)が作れます。**
 

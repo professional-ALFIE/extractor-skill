@@ -1,10 +1,10 @@
 **[English](./README.md)** | [한국어](./docs/README.ko.md) | [日本語](./docs/README.ja.md) | [中文](./docs/README.zh.md)
 
-# GitHub Extractor Skill for Claude Code
+# GitHub Extractor Skill for Claude Code / Codex CLI / Gemini CLI
 
-> **Zero LLM tokens. Zero hallucination. 100% Deterministic.**
+> Ask an AI agent to analyze open source? It clones the entire 500MB repo to `/tmp`. Ask again? It clones again. Tokens wasted, time wasted. Use web search instead? Less accurate than reading the actual code, more hallucinations, and still burns tokens.
 >
-> Extract raw links and download files from GitHub repositories without full cloning.
+> **Not anymore.** Download only the folders you need, or extract raw links and use them directly.
 >
 > **🚀 Feed raw links into [NotebookLM](https://notebooklm.google.com) and build your own [Deep Wiki](https://deepwiki.com) from any GitHub repo.**
 

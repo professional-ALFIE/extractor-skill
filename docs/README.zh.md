@@ -1,10 +1,10 @@
 [English](../README.md) | [한국어](./README.ko.md) | [日本語](./README.ja.md) | **[中文](./README.zh.md)**
 
-# GitHub Extractor Skill for Claude Code
+# GitHub Extractor Skill for Claude Code / Codex CLI / Gemini CLI
 
-> **零LLM token消耗。零幻觉。100%确定性。**
+> 让AI代理分析开源项目？它会把整个500MB的仓库克隆到`/tmp`。再问一次？又克隆一遍……token浪费了，时间也浪费了。用网页搜索来分析？比直接读代码精度更低，幻觉更多，token消耗也更大。
 >
-> 从GitHub仓库提取raw链接和下载文件，无需完整克隆。
+> **现在不需要了。** 只下载需要的文件夹，或者提取raw链接直接使用。
 >
 > **🚀 将raw链接导入[NotebookLM](https://notebooklm.google.com)，从任何GitHub仓库构建属于你自己的[Deep Wiki](https://deepwiki.com)。**
 
