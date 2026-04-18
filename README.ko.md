@@ -3,6 +3,8 @@
 > **LLM 토큰 소모? 없어요. AI 할루시네이션? 없어요. 100% 결정적.**
 >
 > GitHub 레포에서 raw 링크 추출 및 파일 다운로드. 전체 클론 없이.
+>
+> **🚀 Raw 링크를 [NotebookLM](https://notebooklm.google.com)에 넣으면? 아무 GitHub 레포로든 나만의 [Deep Wiki](https://deepwiki.com)를 만들 수 있어요.**
 
 ---
 

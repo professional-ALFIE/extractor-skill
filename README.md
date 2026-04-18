@@ -3,6 +3,8 @@
 > **Zero LLM tokens. Zero hallucination. 100% Deterministic.**
 >
 > Extract raw links and download files from GitHub repositories without full cloning.
+>
+> **🚀 Feed raw links into [NotebookLM](https://notebooklm.google.com) and build your own [Deep Wiki](https://deepwiki.com) from any GitHub repo.**
 
 ---
 
