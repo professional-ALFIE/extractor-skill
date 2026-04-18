@@ -17,24 +17,13 @@
 
 ## 설치
 
-### Claude Code 사용자
+### 빠른 설치 (권장)
 
 ```bash
-npx ai-agent-skills install professional-ALFIE/extractor-skill
+curl -sL https://raw.githubusercontent.com/professional-ALFIE/github-extractor/master/install.sh | bash
 ```
 
-또는 스킬 폴더를 `~/.claude/skills/extractor-skill/`에 복사하세요.
-
-### 단독 사용
-
-```bash
-git clone https://github.com/professional-ALFIE/extractor-skill.git
-cd extractor-skill/scripts
-
-# 직접 실행 (shebang 포함)
-./extractor_githubRawLinks.py <GITHUB_URL>
-./extractor_githubRawFiles.py <GITHUB_URL> [출력_디렉토리]
-```
+`~/.claude/skills/github-extractor/`에 스킬과 스크립트가 설치됩니다.
 
 ---
 

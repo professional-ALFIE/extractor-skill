@@ -17,24 +17,13 @@
 
 ## Installation
 
-### For Claude Code Users
+### Quick Install (Recommended)
 
 ```bash
-npx ai-agent-skills install professional-ALFIE/extractor-skill
+curl -sL https://raw.githubusercontent.com/professional-ALFIE/github-extractor/master/install.sh | bash
 ```
 
-Or manually copy the skill folder to `~/.claude/skills/extractor-skill/`.
-
-### Standalone Usage
-
-```bash
-git clone https://github.com/professional-ALFIE/extractor-skill.git
-cd extractor-skill/scripts
-
-# Run directly (shebang included)
-./extractor_githubRawLinks.py <GITHUB_URL>
-./extractor_githubRawFiles.py <GITHUB_URL> [OUTPUT_DIR]
-```
+This installs the skill and scripts to `~/.claude/skills/github-extractor/`.
 
 ---
 
