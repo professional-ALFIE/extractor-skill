@@ -1,3 +1,5 @@
+[English](../README.md) | **[한국어](./README.ko.md)** | [日本語](./README.ja.md) | [中文](./README.zh.md)
+
 # GitHub Extractor Skill for Claude Code
 
 > **LLM 토큰 소모? 없어요. AI 할루시네이션? 없어요. 100% 결정적.**

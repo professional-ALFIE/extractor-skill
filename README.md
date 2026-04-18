@@ -1,3 +1,5 @@
+**[English](./README.md)** | [한국어](./docs/README.ko.md) | [日本語](./docs/README.ja.md) | [中文](./docs/README.zh.md)
+
 # GitHub Extractor Skill for Claude Code
 
 > **Zero LLM tokens. Zero hallucination. 100% Deterministic.**
